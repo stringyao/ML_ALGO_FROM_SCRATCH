@@ -4,4 +4,8 @@
 
 ## This repo is used to save my own versions of common machine learning algorithms. 
 
-### KNN
+### (1) KNN classifier:
+
+idea: classify the input as the majority class of its K nearest neighbours
+
+
